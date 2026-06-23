@@ -747,7 +747,7 @@ export default function Window({
             aria-label="Close window"
           >
             <Image
-              src="/assets/xp-icons/exit"
+              src="/assets/xp-icons/exit.png"
               alt=""
               aria-hidden="true"
               width={21}
@@ -818,7 +818,7 @@ export default function Window({
             aria-label="Minimize window"
           >
             <Image
-              src="/assets/xp-icons/minimize"
+              src="/assets/xp-icons/minimize.png"
               alt=""
               aria-hidden="true"
               width={21}
@@ -838,7 +838,7 @@ export default function Window({
             }
           >
             <Image
-              src="/assets/xp-icons/maximize"
+              src="/assets/xp-icons/maximize.png"
               alt=""
               aria-hidden="true"
               width={21}
@@ -853,7 +853,7 @@ export default function Window({
             aria-label="Close window"
           >
             <Image
-              src="/assets/xp-icons/exit"
+              src="/assets/xp-icons/exit.png"
               alt=""
               aria-hidden="true"
               width={21}
